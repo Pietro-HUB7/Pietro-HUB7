@@ -15,5 +15,5 @@ Pretendo me tornar um bom DEV no futuro
 Desejo aprender, compartilhar e ajudar a galera aqui no GitHub
 Se quiser trocar ideia ou acompanhar meus projetos, fica à vontade 👊
 ## Contato:
-EMAIL:pietrobitencourtalcantara@gmail.com  
+EMAIL: pietrobitencourtalcantara@gmail.com  
 
