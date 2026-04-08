@@ -8,7 +8,7 @@ Estou aprendendo programação na prática e tentando evoluir um pouco todo dia 
 
 OBJETIVOS DE APENDIZAGEM:
 - Lógica de programação
-- JavaScript,Python 
+- JavaScript, Python 
 - Resolver problemas.
 
 Pretendo me tornar um bom DEV no futuro
